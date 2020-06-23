@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<products>
+    <product>
+        <name>Iphone8</name>
+        <price>40500</price>
+    </product>
+    <product>
+        <name>Iphone9</name>
+        <price>60500</price>
+    </product>
+    <product>
+        <name>Iphone10</name>
+        <price>80500</price>
+    </product>
+    <product>
+        <name>Iphone11</name>
+        <price>100500</price>
+    </product>
+</products>
